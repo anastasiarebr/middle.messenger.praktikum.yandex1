@@ -1,9 +1,13 @@
 {
-  "name": "123",
+  "name": "middle.messenger.praktikum.yandex",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "engines" : { 
+    "node" : ">=18.0.0" 
+  },
   "scripts": {
+    "start": "ts-node-esm ./server.ts",
     "dev": "ts-node-esm ./server.ts",
     "build": "tsc && vite build",
     "preview": "vite preview"
