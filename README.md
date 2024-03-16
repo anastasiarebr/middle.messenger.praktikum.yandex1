@@ -21,7 +21,7 @@
 
 [Макет в Фигме](https://www.figma.com/file/QmEVfUy3Neyi8UzEXo7mkr/Chat-Yandex-Praktikum?type=design&node-id=0-1&mode=design&t=CFFaV6FCCBeBAGlS-0)
 
-[Ссылка на проект в Netlify](https://effervescent-bombolone-3b0c43.netlify.app)
+[Ссылка на проект в Netlify](https://effervescent-bombolone-3b0c43.netlify.app/src/pages/login/index.html)
 
 ### Ссылки на страницы
 
